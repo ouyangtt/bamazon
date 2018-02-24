@@ -26,6 +26,6 @@ VALUES
 ("Quantitative Finance", "Book",24,10),
 ("Deep Sleep Pillow Spray", "Pharmarcy",21,50),
 ("Pine Cat Litter","Pet",30,100),
-("Sake Pot,","Kitchen",12,3),
+("Sake Pot","Kitchen",12,3),
 ("Bathroom Cleaner","Household",20,300),
 ("Scientific Calculator","Electronics",13,400);
